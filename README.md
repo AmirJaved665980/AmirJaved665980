@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any Backend projects i.e REST API, Iaas on AWS
 - 📫 How to reach me: 
   - Email: amirjaved665980@gmail.com
-  - Upwork: Amir Javed  (ancabootec)
+  - Upwork: Amir Javed  (ancabotec)
 
 <!---
 AmirJaved665980/AmirJaved665980 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
