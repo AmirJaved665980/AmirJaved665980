@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirJaved665980
 - 👀 I’m interested in Mobile and Backend devlopment on Google Flutter and Nodejs.
 - 🌱 I’m currently learning Google Flutter for Cross platform App development
-- 💞️ I’m looking to collaborate on any Backend projects i.e REST API, Iaas on AWS
+- 💞️ I’m looking to collaborate on any Backend projects i.e REST API, IaaC on AWS
 - 📫 How to reach me: 
   - Email: amirjaved665980@gmail.com
   - Upwork: Amir Javed  (ancabotec)
