@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmirJaved665980
-- 👀 I’m interested in Web & Mobile App development with React, Nodejs, and Google Flutter.
-- 🌱 I’m currently learning Google Flutter for Cross platform App development
-- 💞️ I’m looking to collaborate on any Full Stack web & mobile app development i.e Frontend App, Backend API, IaaC on AWS
+- 👀 I’m interested in Web & Mobile App development with React, React Native, and Nodejs.
+- 🌱 I’m currently learning React Native for Cross platform App development
+- 💞️ I’m looking to collaborate on any Full Stack web & mobile app development.
 - 📫 How to reach me: 
   - Email: amirjaved665980@gmail.com
   - Upwork: Amir Javed  (ancabotec)
